@@ -3,6 +3,12 @@ header {
     margin: 2em auto;
 }
 
+.heading{
+    font-size: 4em;
+    text-align: center;
+    color:#0096FF;
+}
+
 .logo {
     background: url("https://s.cdpn.io/7635/averyson-logo.gif") no-repeat;
     background-size: 100%;
@@ -46,4 +52,17 @@ date {
     position: absolute;
     top: 265px;
     left: 243px;
+}
+
+footer {
+    position: absolute;
+    bottom: 30px;
+    width: 50%;
+}
+
+.wrp{
+    position: absolute;
+    font-size: 2em;
+    bottom: 60px;
+    text-align: center;
 }
